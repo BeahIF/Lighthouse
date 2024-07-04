@@ -1,0 +1,22 @@
+# Projeto de Análise e Predição de Avaliações de Filmes no IMDb para o desafio Lighthouse da Indicium
+
+Este projeto utiliza dados sobre filmes do IMDb para explorar correlações entre diferentes variáveis e construir um modelo de regressão linear para prever a nota IMDb de filmes.
+
+## Instalação
+
+1. Clone o repositório:
+   git clone https://github.com/BeahIF/Lighthouse.git
+   cd Lighthouse
+
+2. Instale as dependências necessárias:
+   pip install -r requirements.txt
+
+## Execução
+
+Para executar o projeto, execute o seguinte comando:
+python teste_técnico.py
+
+## Requisitos
+
+- Python 3.x
+- Bibliotecas listadas em requirements.txt
